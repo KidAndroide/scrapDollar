@@ -1,0 +1,2 @@
+This Python script utilizes web scraping techniques to fetch up-to-date dollar exchange rates from various financial sources of Argentina, including official, blue, and MEP rates. The data is extracted from the "https://dolarhoy.com/" website using the requests library and parsed with BeautifulSoup.
+The program creates a graphical user interface (GUI) using the ttkbootstrap library. Three interactive buttons, labeled "Dólar Oficial," "Dólar Blue," and "Dólar Mep," allow users to check the latest exchange rates with a click
